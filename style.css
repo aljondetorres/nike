@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    background: rgb(212, 207, 207);
+}
+img{
+    height: 25rem;
+    width: 25rem;
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    display: block;
+    margin-top: -80px;
+}
+button{
+    text-align: center;
+    display: block;
+    margin:  20px auto;
+}
+#btn-shoe{
+    padding: 10px 13px ;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+}
+#btn-shoe:hover{
+    background-color: aqua;
+    color: black;
+}
